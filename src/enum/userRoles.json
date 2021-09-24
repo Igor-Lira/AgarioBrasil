@@ -1,0 +1,38 @@
+[
+    {
+        "ip":"94.61.93.124",
+        "password":"ammnds20033002",
+        "role":"ADMIN",
+        "name":"Local Administrator"
+    },
+    {
+        "ip":"177.107.116.48",
+        "password":"jvs12022005",
+        "role":"ADMIN",
+        "name":"Local Administrator"
+    },
+	{
+        "ip":"192.168.1.104",
+        "password":"jvs12022005",
+        "role":"ADMIN",
+        "name":"Local Administrator"
+    },
+	{
+        "ip":"164.163.45.154",
+        "password":"12456100",
+        "role":"MODER",
+        "name":"Local Moderator"
+    },
+    {
+        "ip":"127.0.0.1",
+        "password":"",
+        "role":"MODER",
+        "name":"Local Moderator"
+    },
+    {
+        "ip":"127.0.0.1",
+        "password":"",
+        "role":"USER",
+        "name":"Local User"
+    }
+]
